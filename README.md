@@ -2,10 +2,11 @@
 # ![Icon](Logo.png) SB-Maze 
 
 This game is AMAZE! for Android completly written from scratch for Small Basic 1.2 for Windows. The design is heavily inspired by the Commander X16 Version of the game:
-CX16-Maze (https://www.commanderx16.com/forum/index.php?/files/file/4-cx16-maze/).
-SB-Maze is a little puzzle-game with 50 levels, which takes around 15-20 min. to beat. In the future more may come, who knows...
+[CX16-Maze](https://www.commanderx16.com/forum/index.php?/files/file/4-cx16-maze/).
+SB-Maze is a little puzzle-game with 50 levels, which takes around 15-20 min. to beat. In the future more levels might come...
 
-#### Merry Christmas everyone!! 🎄
+## Requirements
+Windows 7, 8, 10 or 11 with [Microsoft .NET Framework 4.5](https://www.microsoft.com/en-us/download/confirmation.aspx?id=30653) installed.
 
 ## How to create you own levels
 
